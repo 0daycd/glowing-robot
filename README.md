@@ -1,4 +1,4 @@
-# glowing-robot
+# create a virus, python
 
 import turtle  
 
